@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently learning web3, crypto development with Node.js
+I'm currently looking for opportunities in web3, crypto development
 
 ![](https://komarev.com/ghpvc/?username=DaBors)
 ![](https://hit.yhype.me/github/profile?user_id=25983983)
