@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-I'm currently looking for opportunities in web3, crypto development
+I'm currently looking for opportunities in web3, crypto development, and social impact projects
+
+Feel free to book a time and let's have a chat :)
+
+https://calendly.com/martonborsos/intro
 
 ![](https://komarev.com/ghpvc/?username=DaBors)
 ![](https://hit.yhype.me/github/profile?user_id=25983983)
