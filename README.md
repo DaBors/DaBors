@@ -4,7 +4,7 @@ I'm currently looking for opportunities in web3, crypto development, and social 
 
 Feel free to book a time and let's have a chat :)
 
-https://calendly.com/martonborsos/intro
+https://calendly.com/martonborsos/1-1-call
 
 ![](https://komarev.com/ghpvc/?username=DaBors)
 ![](https://hit.yhype.me/github/profile?user_id=25983983)
